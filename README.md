@@ -23,7 +23,7 @@ Now we pray that he will accept our efforts and use this translation for the ben
 ## Technical note
 This is very important for anyone processing this translation for use with Bible software.
 
-- [Assamese](https://en.wikipedia.org/wiki/Assamese_language) is one the Indian languages written with the [Assamese script](https://en.wikipedia.org/wiki/Assamese_alphabet).
+- [Assamese](https://en.wikipedia.org/wiki/Assamese_language) is one of the Indian languages written with the [Debanagari script](https://www.google.com/search?q=devanagari+font&oq=debanag&aqs=chrome.3.69i57j0l7.11934j0j7&sourceid=chrome&ie=UTF-8).
 - [Unicode normalisation](https://en.wikipedia.org/wiki/Unicode_equivalence) should **not** be applied to the text of the Assamese Bible!
 - [Composition exclusions](http://www.unicode.org/reports/tr15/#Primary_Exclusion_List_Table) include these Indic scripts: **Devanagari**, **Bengali**, **Gurmukhi**, **Oriya**.
 > Canonically decomposable characters ... are generally not the preferred form for particular scripts.
